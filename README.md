@@ -13,5 +13,9 @@ Tengine是Nginx的超集，阿里开源项目，阿里云负载均衡就是基�
   make install  
   
 4. 环境变量   
-  ln -s /etc/tengine/sbin/nginx     /usr/local/bin/nginx
+  ln -s /etc/tengine/sbin/nginx     /usr/local/bin/nginx  
+  
+5. nginx开启gzip
+  ![](img/gzip.jpg)
+    
   
