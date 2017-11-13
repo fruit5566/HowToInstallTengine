@@ -4,7 +4,7 @@ Tengine是Nginx的超集，阿里开源项目，阿里云负载均衡就是基�
 1. 官网下载
 ![](img/downlink.jpg)
 
-2. 安装依赖
+2. 安装依赖  
     ![](img/dec.jpg)
     
 3. 编译安装Tengine  
